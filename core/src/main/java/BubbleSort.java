@@ -23,7 +23,8 @@ public class BubbleSort extends Sort{
             if (swapped == false)
                 break;
 
-            printArray(arr);
+
         }
+        printArray(arr);
     }
 }
